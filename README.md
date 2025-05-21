@@ -31,3 +31,5 @@ script.js – Code for generating password
 
 About:
 I made this project to practice my web development skills and build something useful for creating strong passwords.
+
+submitted date:19/05/2025 
